@@ -74,6 +74,18 @@ h1,h2,h3,h4,h5,h6{
     width: 30%;
 }
 
+.boxes{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.boxes .box{
+    width: 100%;   
+    margin: 25px;
+    margin-left: 30px; 
+    margin-bottom: 50px;
+}
+
 
 .btn{
     color: #fff;
