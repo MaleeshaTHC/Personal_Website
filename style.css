@@ -1,7 +1,7 @@
 /* font */
 @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300;400;500;600;700&family=Inter:wght@300;400;500;600;700;800&display=swap');
 :root{
-    --pink :#c9204f;
+    --pink :#930663;
     --black: #000;
     --p-color: #393939;
     --font-Dosis: 'Dosis', sans-serif;
@@ -44,7 +44,7 @@ section{
 .sec-top span{
     font-size: 40px;
     padding-bottom: 10px;
-    border-bottom: 4px solid #e9204f;
+    border-bottom: 4px solid #930663;
     font-family: var(--font-Dosis);
     font-weight: 700;
     text-transform: capitalize;
@@ -719,9 +719,12 @@ h1,h2,h3,h4,h5,h6{
         padding-top: 50px;
         padding-bottom: 20px;
     }
-    .footer .contact form button{
+    .footer .contact form {
         width: 140px;
         font-size: 16px;
+    }
+    .footer .contanier img {
+        width: 240px;
     }
 
 }
@@ -761,4 +764,14 @@ h1,h2,h3,h4,h5,h6{
         padding: 6px 12px;
         font-size: 14px;
     }
+}
+.footer .content a{
+    color: #ffff;
+}
+.footer .content a:hover,
+.footer .content a.active{ 
+    color: var(--pink);
+}
+.footer .contanier .footer-img{
+    align-item: center;
 }
