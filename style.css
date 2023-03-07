@@ -407,7 +407,7 @@ h1,h2,h3,h4,h5,h6{
     width: 100%;
 }
 .portfolio .projects .boxs .box:hover img{
-    transform: scale(1.1);
+    transform: scale(1.6);
 }
 .portfolio .projects .boxs .box .img-hover{
     position: absolute;
@@ -774,4 +774,11 @@ h1,h2,h3,h4,h5,h6{
 }
 .footer .contanier .footer-img{
     align-item: center;
+}
+.blog .contanier a{
+    color: var(--black);
+}
+.blog .contanier a:hover,
+.blog .contanier a.active{ 
+    color: var(--pink);
 }
