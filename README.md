@@ -1,7 +1,7 @@
 # Personal Website
 HTML, CSS, JavaScript
 
-Welcome to the git repository for my personal website!
+<h1>Welcome to the git repository for my personal website!</h1>
 
 This repository contains the code for my personal portfolio website, which showcases my skills, experience, and projects as a software engineer and web developer. The website is built using HTML, CSS, and JavaScript, and is hosted on Netlify.
 
@@ -14,9 +14,10 @@ README.md: This file contains the README for the git repository, providing an ov
 
 Feel free to explore the code and use it as a reference for your own personal portfolio website. If you have any questions or feedback, feel free to contact me through the contact form on the website https://maleeshathc.netlify.app. Thank you for visiting!
 
-Live Demo : https://maleeshathc.netlify.app
+<h2>Live Demo & Overview : https://maleeshathc.netlify.app</h2
 
-Overview
+
+
 ![Screenshot (618)](https://user-images.githubusercontent.com/83639385/224361653-16b4e250-0185-4dd6-870b-e083449b285b.png)
 ![Screenshot (619)](https://user-images.githubusercontent.com/83639385/224361659-20d93605-c6ce-4991-bffd-bb6fce4192dd.png)
 ![Screenshot (620)](https://user-images.githubusercontent.com/83639385/224361670-3cacc794-d1ec-4419-9e6d-385aca9fa593.png)
